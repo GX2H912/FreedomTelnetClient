@@ -141,6 +141,10 @@
             <command>toggle fluidspread</command>
         </favoriteButton>
         <favoriteButton>
+            <label>Spammer</label>
+            <command>smite $TARGET_NAME</command>
+        </favoriteButton>
+        <favoriteButton>
             <label>Toggle Lava Damage</label>
             <command>toggle lavadmg</command>
         </favoriteButton>
